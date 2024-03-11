@@ -1,0 +1,51 @@
+@import '../styles/variables.scss';
+
+.projects-list {
+  display: flex;
+  gap: 40px;
+  overflow-x: auto;
+  padding-top: 100px;
+}
+
+//responsive tablet screen
+@media (max-width: 1000px) {
+  .projects-list {
+    padding-top: 100px;
+  }
+}
+
+@media (max-width: 744px) {
+  .projects-list {
+    gap: 20px;
+    margin: 0 20px;
+  }
+}
+
+// responsive mobile screen
+@media (max-width: 430px) {
+  .projects-list {
+    padding-top: 0px;
+    margin: 0 20px;
+  }
+}
+
+/* Height */
+::-webkit-scrollbar {
+  height: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: $beige;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: $light-green;
+  border-radius: 2px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: $dark-green;
+}

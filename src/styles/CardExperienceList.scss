@@ -1,0 +1,55 @@
+@import '../styles/variables.scss';
+
+.card-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+
+  .card-experience {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 24px;
+
+    h2 {
+      font-family: 'Bold';
+      font-size: 64px;
+      letter-spacing: 1.2px;
+    }
+
+    img {
+      width: 61px;
+      height: 61px;
+    }
+  }
+
+  p {
+    font-family: 'Regular';
+    font-size: 32px;
+    letter-spacing: 1.2px;
+    width: 80%;
+  }
+}
+
+//responsive mobile screen
+@media (max-width: 430px) {
+  .card-item {
+    p {
+      font-size: 14px;
+    }
+
+    .card-experience {
+      margin-bottom: 16px;
+
+      img {
+        width: 48px;
+      }
+
+      h2 {
+        font-size: 32px;
+      }
+    }
+  }
+}

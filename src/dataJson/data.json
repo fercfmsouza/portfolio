@@ -1,0 +1,169 @@
+[
+  {
+    "id": "a1",
+    "title": "Joker's Burger",
+    "subtitle": "jokers_project_translation_subtitle",
+    "description": "jokers_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "React (Vite)", "Responsive"],
+    "image": "../../public/projects-images/project-jokers.jpg",
+    "hoverImage": "../../public/projects-images/project-jokers2.jpg",
+    "website": "https://jokers-burger.vercel.app/",
+    "github": "https://github.com/fercfmsouza/jokers-burger"
+  },
+  {
+    "id": "a2",
+    "title": "Pets",
+    "subtitle": "pets_project_translation_subtitle",
+    "description": "pets_project_translation_description",
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "ReactJS",
+      "NodeJS",
+      "Rest APIs",
+      "MongoDB",
+      "Mongoose",
+      "Bcrypt",
+      "Figma",
+      "Responsive",
+      "Cloudinary with Multer"
+    ],
+    "image": "../../public/projects-images/project-pets.jpg",
+    "hoverImage": "../../public/projects-images/project-pets2.jpg",
+    "website": "https://petssocialmedia.netlify.app/",
+    "github": "https://github.com/fercfmsouza/project-m3-client"
+  },
+  {
+    "id": "a3",
+    "title": "Meals",
+    "subtitle": "foodOrder_project_translation_subtitle",
+    "description": "foodOrder_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "ReactJS"],
+    "image": "../../public/projects-images/project-meals.jpg",
+    "hoverImage": "../../public/projects-images/project-meals2.jpg",
+    "website": "https://fercfmsouza.github.io/Food-Order/",
+    "github": "https://github.com/fercfmsouza/Food-Order/tree/master?tab=readme-ov-file"
+  },
+  {
+    "id": "a4",
+    "title": "Sneakers",
+    "subtitle": "sneakers_project_translation_subtitle",
+    "description": "sneakers_project_translation_description",
+    "technologies": ["Vanilla JavaScript", "HTML", "Responsive", "SaSS"],
+    "image": "../../public/projects-images/project-sneakers.jpg",
+    "hoverImage": "../../public/projects-images/project-sneakers2.jpg",
+    "website": "https://fercfmsouza.github.io/Sneakers-E-commerce/",
+    "github": "https://github.com/fercfmsouza/Sneakers-E-commerce"
+  },
+  {
+    "id": "a5",
+    "title": "New Future",
+    "subtitle": "newfuture_project_translation_subtitle",
+    "description": "newfuture_project_translation_description",
+    "technologies": [
+      "Handlebars",
+      "HTML",
+      "CSS",
+      "NodeJS",
+      "Rest APIs",
+      "MongoDB",
+      "Mongoose",
+      "Bcrypt",
+      "Figma",
+      "Cloudinary with Multer"
+    ],
+    "image": "../../public/projects-images/project-newfuture.jpg",
+    "hoverImage": "../../public/projects-images/project-newfuture2.jpg",
+    "website": "https://newfuture.cyclic.app/",
+    "github": "https://github.com/fercfmsouza/m2-project"
+  },
+  {
+    "id": "a6",
+    "title": "Feeding Naruto",
+    "subtitle": "feedingNaruto_project_translation_subtitle",
+    "description": "feedingNaruto_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "DOM Manipulation", "Object-Oriented Programming"],
+    "image": "../../public/projects-images/project-naruto.jpg",
+    "hoverImage": "../../public/projects-images/project-naruto2.jpg",
+    "website": "https://fercfmsouza.github.io/feeding-naruto/",
+    "github": "https://github.com/fercfmsouza/feeding-naruto"
+  },
+  {
+    "id": "a7",
+    "title": "Countries",
+    "subtitle": "countries_project_translation_subtitle",
+    "description": "countries_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "SaSS", "ReactJS", "Color Scheme Toggle", "Responsive"],
+    "image": "../../public/projects-images/project-countries.jpg",
+    "hoverImage": "../../public/projects-images/project-countries2.jpg",
+    "website": "https://fercfmsouza.github.io/countries-info/",
+    "github": "https://github.com/fercfmsouza/countries-info/tree/master"
+  },
+  {
+    "id": "a8",
+    "title": "Project Manager",
+    "subtitle": "projectManager_project_translation_subtitle",
+    "description": "projectManager_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "Tailwind", "ReactJS", "Responsive"],
+    "image": "../../public/projects-images/project-todolist.png",
+    "hoverImage": "../../public/projects-images/project-todolist2.jpg",
+    "website": "https://fercfmsouza.github.io/create-projects/",
+    "github": "https://github.com/fercfmsouza/create-projects"
+  },
+  {
+    "id": "a9",
+    "title": "Tic-Tac-Toe",
+    "subtitle": "ticTacToe_project_translation_subtitle",
+    "description": "ticTacToe_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "ReactJS", "Responsive"],
+    "image": "../../public/projects-images/project-tictactoe.jpg",
+    "hoverImage": "../../public/projects-images/project-tictactoe2.jpg ",
+    "website": "https://fercfmsouza.github.io/Tic-tac-toe-game/",
+    "github": "https://github.com/fercfmsouza/Tic-tac-toe-game?tab=readme-ov-file"
+  },
+  {
+    "id": "a10",
+    "title": "Foodelicious",
+    "subtitle": "foodelicious_project_translation_subtitle",
+    "description": "foodelicious_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "ReactJS", "SaSS"],
+    "image": "../../public/projects-images/project-food.jpg",
+    "hoverImage": "../../public/projects-images/project-food2.jpg  ",
+    "website": "https://fercfmsouza.github.io/Modal-React/",
+    "github": "https://github.com/fercfmsouza/Modal-React?tab=readme-ov-file"
+  },
+  {
+    "id": "a11",
+    "title": "Investments Calculator",
+    "subtitle": "calculator_project_translation_subtitle",
+    "description": "calculator_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "ReactJS"],
+    "image": "../../public/projects-images/project-calculator.png",
+    "hoverImage": "../../public/projects-images/project-calculator2.png",
+    "website": "https://fercfmsouza.github.io/Investments-Calculator/",
+    "github": "https://github.com/fercfmsouza/Investments-Calculator"
+  },
+  {
+    "id": "a12",
+    "title": "The drum kit",
+    "subtitle": "theDrumKit_project_translation_subtitle",
+    "description": "theDrumKit_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "DOM Manipulation"],
+    "image": "../../public/projects-images/project-drumkit.jpg",
+    "hoverImage": "../../public/projects-images/project-drumkit.jpg",
+    "website": "https://fercfmsouza.github.io/the-drum-kit/",
+    "github": "https://github.com/fercfmsouza/the-drum-kit"
+  },
+  {
+    "id": "a13",
+    "title": "Revealing your destiny",
+    "subtitle": "revealingDestiny_project_translation_subtitle",
+    "description": "revealingDestiny_project_translation_description",
+    "technologies": ["JavaScript", "HTML", "CSS", "DOM Manipulation"],
+    "image": "../../public/projects-images/project-revealdestiny.jpg",
+    "hoverImage": "../../public/projects-images/project-revealdestiny2.jpg",
+    "website": "https://fercfmsouza.github.io/maratona-rocketseat/",
+    "github": "https://github.com/fercfmsouza/maratona-rocketseat"
+  }
+]

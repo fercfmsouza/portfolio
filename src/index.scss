@@ -1,0 +1,41 @@
+@import '../src//styles/variables.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// html,
+// body {
+//   scroll-behavior: smooth;
+// }
+
+body {
+  height: 100vh;
+}
+
+ul,
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.title-bg-dark {
+  font-size: 36px;
+  color: $dark-green;
+  font-family: 'Regular', sans-serif;
+  letter-spacing: 1.5px;
+}
+
+.title-bg-light {
+  font-size: 36px;
+  color: $beige;
+  font-family: 'Regular', sans-serif;
+  letter-spacing: 1.5px;
+}

@@ -1,0 +1,75 @@
+@import '../styles/variables.scss';
+
+.technologies {
+  padding: 100px 0px;
+
+  .tech-title {
+    margin-left: 152px;
+  }
+
+  .carousel-container {
+    margin: 80px 152px 0 152px;
+    overflow: hidden; /* Hide overflow for smoother scroll */
+  }
+}
+
+//responsive tablet screen
+@media (max-width: 1000px) {
+  .technologies {
+    padding-bottom: 0px;
+    padding-top: 96px;
+
+    .tech-title {
+      margin-left: 40px;
+
+      .title-bg-light {
+        font-size: 36px;
+      }
+    }
+
+    .carousel-container {
+      margin: 96px 40px 0 40px;
+    }
+  }
+}
+
+//responsive mobile screen
+@media (max-width: 430px) {
+  .technologies {
+    padding-bottom: 0px;
+    padding-top: 96px;
+
+    .tech-title {
+      margin-left: 24px;
+
+      .title-bg-light {
+        font-size: 20px;
+      }
+    }
+
+    .carousel-container {
+      margin: 40px 24px 0 24px;
+
+      .slick-slider {
+        img {
+          height: 48px;
+        }
+      }
+    }
+  }
+}
+
+//big screens
+@media (min-width: 1500px) {
+  .technologies {
+    padding: 100px 0px;
+
+    .tech-title {
+      margin-left: 230px;
+    }
+
+    .carousel-container {
+      margin: 80px 230px 0 230px;
+    }
+  }
+}

@@ -1,0 +1,94 @@
+@import './variables.scss';
+
+.education-wrapper {
+  padding: 0px 152px 200px 152px;
+
+  .education {
+    display: flex;
+    justify-content: space-between;
+
+    .btn-cv {
+      background-color: $beige;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 50px;
+      gap: 15px;
+      padding: 23px 34.5px;
+      font-size: 20px;
+      font-family: 'Bold';
+      color: $dark-green;
+      letter-spacing: 1.2px;
+
+      &:hover {
+        background-color: $light-green;
+        color: $beige;
+
+        path {
+          stroke: #e7eae6;
+        }
+      }
+    }
+  }
+
+  .padding {
+    padding: 0 70px;
+
+    .bootcamp {
+      background-color: $light-green;
+      padding: 36px;
+      border-radius: 8px;
+      margin: 60px 0;
+      height: 287px;
+
+      p {
+        font-family: 'Light';
+        font-size: 14px;
+        color: $gray;
+        text-transform: uppercase;
+      }
+
+      h3 {
+        font-family: 'Regular';
+        font-size: 32px;
+        color: $beige;
+        margin: 24px 0 120px 0;
+      }
+    }
+
+    .education-info {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 60px;
+
+      .bacharel,
+      .exchange {
+        border: 2px solid $beige;
+        border-radius: 8px;
+        padding: 36px;
+      }
+
+      p {
+        font-family: 'Light';
+        font-size: 14px;
+        color: $gray;
+        text-transform: uppercase;
+      }
+
+      h3 {
+        font-family: 'Regular';
+        font-size: 32px;
+        color: $beige;
+        margin: 24px 0 80px 0;
+      }
+    }
+  }
+}
+
+//big screens
+@media (min-width: 1500px) {
+  .education-wrapper {
+    padding: 0px 230px 200px 230px;
+  }
+}

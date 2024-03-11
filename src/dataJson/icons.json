@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1a",
+    "icon": "../../public/assets/express.svg",
+    "altText": "express icon"
+  },
+  {
+    "id": "2b",
+    "icon": "../../public/assets/figma.svg",
+    "altText": "figma icon"
+  },
+  {
+    "id": "3c",
+    "icon": "../../public/assets/js.svg",
+    "altText": "javaScript icon"
+  },
+  {
+    "id": "4d",
+    "icon": "../../public/assets/css.svg",
+    "altText": "css icon"
+  },
+  {
+    "id": "5e",
+    "icon": "../../public/assets/html.svg",
+    "altText": "html icon"
+  },
+  {
+    "id": "6f",
+    "icon": "../../public/assets/node.svg",
+    "altText": "node icon"
+  },
+  {
+    "id": "7g",
+    "icon": "../../public/assets/react.svg",
+    "altText": "react icon"
+  },
+  {
+    "id": "8h",
+    "icon": "../../public/assets/sass.svg",
+    "altText": "sass icon"
+  },
+  {
+    "id": "9i",
+    "icon": "../../public/assets/git.svg",
+    "altText": "git icon"
+  },
+  {
+    "id": "10j",
+    "icon": "../../public/assets/mongo.svg",
+    "altText": "mongodb icon"
+  }
+]

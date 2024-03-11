@@ -1,0 +1,48 @@
+@import '../styles/variables.scss';
+
+.back-button-wrapper {
+  .back-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+    border: none;
+    background-color: $light-green;
+    border-radius: 50%;
+    transition: all 0.3s ease 0s;
+    z-index: 999;
+
+    img {
+      width: 20px;
+      margin: 12px;
+    }
+
+    &:hover {
+      background-color: $dark-green;
+      transform: translateY(-7px);
+    }
+  }
+}
+
+@media (max-width: 744px) {
+  .back-button-wrapper {
+    .back-button {
+      bottom: 20px;
+      right: 20px;
+    }
+  }
+}
+
+@media (max-width: 430px) {
+  .back-button-wrapper {
+    .back-button {
+      img {
+        width: 15px;
+        margin: 8px;
+      }
+    }
+  }
+}

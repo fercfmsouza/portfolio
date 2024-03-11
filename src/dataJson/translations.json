@@ -1,0 +1,256 @@
+{
+  "en": {
+    "navListProjects": "Projects",
+    "navListAbout": "About",
+    "navListContact": "Contact",
+    "basedInBerlin": "Based in Berlin",
+    "homeQuote": "More than just a web developer : a creator of digital experiences that make a lasting impact",
+    "checkOutTitle": "Check out what I've been coding",
+    "moreProjectsButton": "More projects",
+    "skills": "/skills grow. So will this portfolio.",
+    "technologiesTitle": "/technologies",
+
+    "experienceTitle": "/experience",
+    "resumeButton": "Resume",
+    "gitHubRepo": "Github repositories",
+    "projectsCompleted": "projects completed",
+    "yearsOfStudy": "years of studies",
+    "cupsOfCoffee": "cups of coffee taken (and counting)",
+
+    "aboutQuote": "Code is my passion but besides that I’m a foodie traveler with a background in architecture.",
+    "moreAboutButton": "More about Fernanda",
+
+    "footerTitle": "I would love to hear from you",
+    "footerSubtitle": "Feel free to connect. Let’s build something great together.",
+
+    "checkoutWebsiteButton": "Check out Website",
+    "demoButton": "Demo",
+
+    "titleAbout": "HEY! I'M FERNANDA",
+    "subtitleFrontend": "frontend developer",
+    "subtitlePassionate": "passionate",
+    "subtitleAbout": "about",
+    "subtitleCoding": "coding",
+    "subtitleMarkable": "markable",
+    "subtitleProducts": "products",
+    "otherThingsTitle": "But I like other things too",
+    "otherThingsDescription1": "My interest in web development started in 2020, when I decided to try my hand at creating my own website - and I found it amazing to be able to code and see the result on the screen instantly, and it taught me a lot about HTML and CSS!",
+    "otherThingsDescription2": "Outside work, I enjoy good coffee, listening music, good food and exploring the world with my husband. Have I mentioned that I love Japan?",
+    "educationTitle": "/education",
+    "educationBootcamp": "Bootcamp",
+    "educationBacharel": "Bacharel",
+    "educationExchange": "Exchange",
+    "educationDescriptionWebDev": "FullStack Web Development",
+    "educationDescriptionArchitect": "Architecture and Urbanism",
+    "educationGermany": "Ironhack - Berlin",
+    "educationBrazil": "PUC-PR - Brazil",
+    "educationSpain": "ETSAM - Madrid",
+
+    "jokers_project_translation_subtitle": "Hamburger shop web application",
+    "jokers_project_translation_description": "The project includes a menu page with an accordion list, a contact page, and a home page. The Google Maps API is integrated to display the shop's location. The project utilizes PropTypes to define and enforce the expected data types of props passed to certain React components. PropTypes is a helpful tool for catching bugs related to data type mismatches during development.",
+
+    "pets_project_translation_subtitle": "Social Media",
+    "pets_project_translation_description": "A fullstack project with two separated applications, one for the frontend and one for the backend. Before developed the app, we designed all the architecture based on the MVP idea. Then I created all the pages and design in Figma, starting with “mobile first” and then going to big screens.",
+
+    "newfuture_project_translation_subtitle": "Professional Media",
+    "newfuture_project_translation_description": "My first experience working in pairs. Also I had my first contact with backend, so understanding the behavior between server and the database it was a technical challenge that I faced. I had the opportunity to work with some server- side rendering with Handlebars for the frontend.",
+
+    "foodOrder_project_translation_subtitle": "Food order page",
+    "foodOrder_project_translation_description": "A food order page built using JavaScript and React. I used CSS modules for styling to ensure scoped and maintainable styles. The project is structured into several components: Cart, Meals, Layout, UI(reusable UI components used throughout the application, like Card, Input and Modal.)",
+
+    "feedingNaruto_project_translation_subtitle": "A game",
+    "feedingNaruto_project_translation_description": "I created a web game using HTML, CSS, and JavaScript with a focus on DOM manipulation and Object-Oriented Programming (OOP). This was the first big project of Ironhack's bootcamp. The main technical challenge was coding the collisions, the boundaries and the mouse movement.",
+
+    "sneakers_project_translation_subtitle": "E-commerce product page",
+    "sneakers_project_translation_description": "A responsive e-commerce product page for sneakers. Users can add/remove items from the cart, view cart status, navigate product images, and open a modal for a larger image. I used vanilla JavaScript for all interactive and dynamic elements.",
+
+    "countries_project_translation_subtitle": "Search page",
+    "countries_project_translation_description": "An application that pulls country data from a data.json file and displays it based on provided designs. The application allows users to explore countries, search for specific ones, filter by region, and view detailed information about each country. Bonus feature: color scheme toggle.",
+
+    "projectManager_project_translation_subtitle": "To do list",
+    "projectManager_project_translation_description": "A web application built with React and styled with the Tailwind CSS framework. This project allows users to create new projects, add tasks to them, clean tasks, and delete projects - all within the frontend environment.",
+
+    "ticTacToe_project_translation_subtitle": "A game",
+    "ticTacToe_project_translation_description": "The classic Tic Tac Toe game using React with Vite. You can play the game against another person, taking turns to make moves on the board. Interactive and responsive game board.",
+
+    "foodelicious_project_translation_subtitle": "A modal gallery",
+    "foodelicious_project_translation_description": "This project implements a basic image gallery with a modal using the React library and Sass for styling. When a user clicks on an image, a modal window appears displaying a larger version of the image along with its description. The user can navigate through all the images using right and left arrow buttons or keyboard arrow keys. Additionally, users can press the 'Esc' key to close the modal.",
+
+    "calculator_project_translation_subtitle": "Calculator",
+    "calculator_project_translation_description": "This is a JavaScript and React application that allows you to calculate the growth of your investments over a specified duration. The app is composed of three main components: Header, UserInput, and ResultsTable.",
+
+    "theDrumKit_project_translation_subtitle": "A game",
+    "theDrumKit_project_translation_description": "The Drum Kit game is a project where user can play around with drumkit by pressing their keyboard or click at the buttons. The main concepts presented in this project are DOM, key events(JS) and CSS animations.",
+
+    "revealingDestiny_project_translation_subtitle": "A game",
+    "revealingDestiny_project_translation_description": "The Revealing your destiny game is a project in which the user can play with the little box by typing in a question to find out the answer. The main concepts presented in this project are DOM manipulation and CSS animations."
+  },
+
+  "pt": {
+    "navListProjects": "Projetos",
+    "navListAbout": "Sobre",
+    "navListContact": "Contato",
+    "basedInBerlin": "Based in Berlin",
+    "homeQuote": "Mais do que uma desenvolvedora Web: uma criadora de experiências digitais que causam um impacto duradouro",
+    "checkOutTitle": "Confira o que venho criando",
+    "moreProjectsButton": "Mais projetos",
+    "skills": "/habilidades crescem. Assim como esse portfólio.",
+    "technologiesTitle": "/tecnologias",
+    "experienceTitle": "/experiências",
+    "resumeButton": "Currículo",
+    "gitHubRepo": "respositórios Github",
+    "projectsCompleted": "projetos completos",
+    "yearsOfStudy": "anos de estudo",
+    "cupsOfCoffee": "xícaras de café tomadas (e contando)",
+    "aboutQuote": "Minha paixão é o código, mas também sou uma amante da gastronomia e uma entusiasta de viagens, com formação em arquitetura.",
+    "moreAboutButton": "Mais sobre Fernanda",
+    "footerTitle": "Vamos nos conectar?",
+    "footerSubtitle": "Fique à vontade para entrar em contato. Vamos construir algo incrível juntos.",
+
+    "checkoutWebsiteButton": "Confira o site",
+    "demoButton": "Demo",
+
+    "titleAbout": "OLÁ! EU SOU A FERNANDA",
+    "subtitleFrontend": "desenvolvedora frontend",
+    "subtitlePassionate": "apaixonada",
+    "subtitleAbout": "por",
+    "subtitleCoding": "codificar",
+    "subtitleMarkable": "excelentes",
+    "subtitleProducts": "produtos",
+    "otherThingsTitle": "Mas eu também gosto de outras coisas",
+    "otherThingsDescription1": "Meu interesse em desenvolvimento web começou em 2020, quando decidi tentar criar meu próprio site - e achei incrível poder codificar e ver o resultado na tela instantaneamente, e isso me ensinou muito sobre HTML e CSS!",
+    "otherThingsDescription2": "Fora do trabalho, gosto de tomar um bom café, ouvir música, comer bem e explorar o mundo com meu marido. Já mencionei que eu amo o Japão?",
+    "educationTitle": "/educação",
+    "educationBootcamp": "Bootcamp",
+    "educationBacharel": "Bacharelado",
+    "educationExchange": "Intercâmbio",
+    "educationDescriptionWebDev": "FullStack Web Development",
+    "educationDescriptionArchitect": "Arquitetura e Urbanismo",
+    "educationGermany": "Ironhack - Berlim",
+    "educationBrazil": "PUC-PR - Brasil",
+    "educationSpain": "ETSAM - Madri",
+
+    "jokers_project_translation_subtitle": "Aplicativo Web para Hamburgeria",
+    "jokers_project_translation_description": "O projeto inclui uma página de menu com uma lista de acordeão, uma página de contato e uma página inicial. A API do Google Maps foi integrada para exibir a localização da loja. O projeto utiliza o PropTypes para definir e impor os tipos de dados esperados das props passadas para determinados componentes do React. O PropTypes é uma ferramenta útil para detectar erros relacionados a incompatibilidades de tipos de dados durante o desenvolvimento.",
+
+    "pets_project_translation_subtitle": "Mídia Social",
+    "pets_project_translation_description": "Um projeto fullstack com dois aplicativos separados, um para o frontend e outro para o backend. Antes de desenvolver o aplicativo, projetamos toda a arquitetura com base na ideia do MVP. Em seguida, criei todas as páginas e o design no Figma, começando com 'mobile first' e depois indo para telas grandes.",
+
+    "newfuture_project_translation_subtitle": "Mídia profissional",
+    "newfuture_project_translation_description": "Minha primeira experiência trabalhando em pares. Também tive meu primeiro contato com backend, portanto, entender o comportamento entre o servidor e o banco de dados foi um desafio técnico que enfrentei. Tive a oportunidade de trabalhar com algumas renderizações do lado do servidor com o Handlebars para o frontend.",
+
+    "foodOrder_project_translation_subtitle": "Página de pedidos de comida",
+    "foodOrder_project_translation_description": "Uma página de pedido de comida criada com JavaScript e React. Usei módulos CSS para estilização a fim de garantir estilos com escopo e manutenção. O projeto está estruturado em vários componentes: Carrinho, Refeições, Layout, IU (componentes de IU reutilizáveis usados em todo o aplicativo, como Cartão, Entrada e Modal).)",
+
+    "feedingNaruto_project_translation_subtitle": "Um jogo",
+    "feedingNaruto_project_translation_description": "Criei um jogo da Web usando HTML, CSS e JavaScript com foco na manipulação de DOM e na programação orientada a objetos (OOP). Esse foi o primeiro grande projeto do bootcamp da Ironhack. O principal desafio técnico foi codificar as colisões, os limites e o movimento do mouse.",
+
+    "sneakers_project_translation_subtitle": "Página de produto e-commerce",
+    "sneakers_project_translation_description": "Uma página de produto de comércio eletrônico responsiva para tênis. Os usuários podem adicionar/remover itens do carrinho, visualizar o status do carrinho, navegar pelas imagens do produto e abrir um modal para uma imagem maior. Usei vanilla JavaScript para todos os elementos interativos e dinâmicos.",
+
+    "countries_project_translation_subtitle": "Página de busca",
+    "countries_project_translation_description": "Um aplicativo que extrai dados de países de um arquivo data.json e os exibe com base nos designs fornecidos. O aplicativo permite que os usuários explorem países, pesquisem países específicos, filtrem por região e visualizem informações detalhadas sobre cada país. Recurso bônus: alternância de esquema de cores.",
+
+    "projectManager_project_translation_subtitle": "To do list",
+    "projectManager_project_translation_description": "Um aplicativo da Web desenvolvido com React e estilizado com a estrutura Tailwind CSS. Esse projeto permite que os usuários criem novos projetos, adicionem tarefas a eles, limpem tarefas e excluam projetos, tudo no ambiente de front-end.",
+
+    "ticTacToe_project_translation_subtitle": "Jogo da velha",
+    "ticTacToe_project_translation_description": "O clássico jogo da velha usando React com Vite. Você pode jogar o jogo contra outra pessoa, revezando-se para fazer movimentos no tabuleiro. Tabuleiro de jogo interativo e responsivo.",
+
+    "foodelicious_project_translation_subtitle": "Uma galeria modal",
+    "foodelicious_project_translation_description": "Este projeto implementa uma galeria de imagens básica com um modal usando a biblioteca React e Sass para estilização. Quando um usuário clica em uma imagem, uma janela modal aparece exibindo uma versão maior da imagem juntamente com sua descrição. O usuário pode navegar por todas as imagens usando os botões de seta para a direita e para a esquerda ou as teclas de seta do teclado. Além disso, os usuários podem pressionar a tecla 'Esc' para fechar a janela modal.",
+
+    "calculator_project_translation_subtitle": "Calculadora",
+    "calculator_project_translation_description": "Este é um aplicativo JavaScript e React que permite calcular o crescimento de seus investimentos em um período específico. O aplicativo é composto de três componentes principais: Header (cabeçalho), UserInput (entrada do usuário) e ResultsTable (tabela de resultados).",
+
+    "theDrumKit_project_translation_subtitle": "Um jogo",
+    "theDrumKit_project_translation_description": "O jogo Drum Kit é um projeto em que o usuário pode brincar com a bateria pressionando o teclado ou clicando nos botões. Os principais conceitos apresentados nesse projeto são DOM, eventos-chave (JS) e animações CSS.",
+
+    "revealingDestiny_project_translation_subtitle": "Um Jogo",
+    "revealingDestiny_project_translation_description": "O jogo Revealing your destiny é um projeto no qual o usuário pode brincar com a caixinha digitando uma pergunta para descobrir a resposta. Os principais conceitos apresentados nesse projeto são manipulação de DOM e animações CSS."
+  },
+
+  "de": {
+    "navListProjects": "Projekte",
+    "navListAbout": "Über",
+    "navListContact": "Kontakt",
+    "basedInBerlin": "Based in Berlin",
+    "homeQuote": "Mehr als nur ein Webentwickler: ein Schöpfer digitaler Erlebnisse die einen bleibenden Eindruck hinterlassen",
+    "checkOutTitle": "Sehen Sie sich an was ich programmiert habe",
+    "moreProjectsButton": "Weitere Projekte",
+    "skills": "/Fähigkeiten wachsen. Das gilt auch für dieses Portfolio.",
+    "technologiesTitle": "/technologien",
+    "experienceTitle": "/erleben",
+    "resumeButton": "Resume",
+    "gitHubRepo": "Github repositorien",
+    "projectsCompleted": "abgeschlossene Projekte",
+    "yearsOfStudy": "Studienjahre",
+    "cupsOfCoffee": "Tassen Kaffee getrunken (und es werden mehr)",
+    "aboutQuote": "Code ist meine Leidenschaft aber abgesehen davon bin ich ein reiselustiger Gastronom mit einem Hintergrund in Architektur.",
+    "moreAboutButton": "Mehr über Fernanda",
+    "footerTitle": "Ich würde mich freuen bald von Ihnen zu hören",
+    "footerSubtitle": "Fühlen Sie sich frei, Kontakt aufzunehmen. Lassen Sie uns gemeinsam etwas Großartiges aufbauen.",
+
+    "checkoutWebsiteButton": "Check out Website",
+    "demoButton": "Demo",
+
+    "titleAbout": "HEY! ICH BIN FERNANDA",
+    "subtitleFrontend": "frontend entwickler",
+    "subtitlePassionate": "der leidenschaftlich",
+    "subtitleAbout": "gerne",
+    "subtitleCoding": "markierbare",
+    "subtitleMarkable": "Produkte",
+    "subtitleProducts": "programmiert",
+    "otherThingsTitle": "Aber ich mag auch andere Dinge",
+    "otherThingsDescription1": "Mein Interesse an der Webentwicklung begann im Jahr 2020, als ich beschloss, mich an der Erstellung einer eigenen Website zu versuchen. Ich fand es erstaunlich, dass ich in der Lage war, zu programmieren und das Ergebnis sofort auf dem Bildschirm zu sehen, und ich lernte dabei eine Menge über HTML und CSS!",
+    "otherThingsDescription2": "Außerhalb der Arbeit genieße ich guten Kaffee, höre Musik, gutes Essen und erkunde die Welt mit meinem Mann. Habe ich schon erwähnt, dass ich Japan liebe?",
+    "educationTitle": "/bildung",
+    "educationBootcamp": "Bootcamp",
+    "educationBacharel": "Bacharel",
+    "educationExchange": "Austausch",
+    "educationDescriptionWebDev": "FullStack Web Development",
+    "educationDescriptionArchitect": "Architektur und Städtebau",
+    "educationGermany": "Ironhack - Berlin",
+    "educationBrazil": "PUC-PR - Brasilien",
+    "educationSpain": "ETSAM - Madrid",
+
+    "jokers_project_translation_subtitle": "Hamburger shop web application",
+    "jokers_project_translation_description": "Das Projekt umfasst eine Menüseite mit einer Akkordeonliste, eine Kontaktseite und eine Startseite. Die Google Maps API ist integriert, um den Standort des Geschäfts anzuzeigen. Das Projekt nutzt PropTypes, um die erwarteten Datentypen von Requisiten, die an bestimmte React-Komponenten übergeben werden, zu definieren und zu erzwingen. PropTypes ist ein hilfreiches Werkzeug, um während der Entwicklung Fehler im Zusammenhang mit Datentypinkongruenzen zu erkennen.",
+
+    "pets_project_translation_subtitle": "Social Media",
+    "pets_project_translation_description": "Ein Fullstack-Projekt mit zwei getrennten Anwendungen, eine für das Frontend und eine für das Backend. Bevor wir die App entwickelten, entwarfen wir die gesamte Architektur auf der Grundlage der MVP-Idee. Dann habe ich alle Seiten und das Design in Figma erstellt, beginnend mit 'mobile first' und dann für große Bildschirme.",
+
+    "newfuture_project_translation_subtitle": "Professional Media",
+    "newfuture_project_translation_description": "Meine erste Erfahrung in der Arbeit zu zweit. Außerdem hatte ich meinen ersten Kontakt mit dem Backend, so dass das Verständnis des Verhaltens zwischen Server und Datenbank eine technische Herausforderung war, der ich mich stellte. Ich hatte die Gelegenheit, mit einigen Server- Side Rendering mit Handlebars für das Frontend zu arbeiten.",
+
+    "foodOrder_project_translation_subtitle": "Food order page",
+    "foodOrder_project_translation_description": "Eine Seite zur Bestellung von Lebensmitteln, erstellt mit JavaScript und React. Ich habe CSS-Module für das Styling verwendet, um skalierbare und wartbare Stile zu gewährleisten. Das Projekt ist in mehrere Komponenten unterteilt: Warenkorb, Mahlzeiten, Layout, UI (wiederverwendbare UI-Komponenten, die in der gesamten Anwendung verwendet werden, wie Card, Input und Modal).",
+
+    "feedingNaruto_project_translation_subtitle": "Ein Spiel",
+    "feedingNaruto_project_translation_description": "Ich habe ein Webspiel mit HTML, CSS und JavaScript entwickelt, wobei der Schwerpunkt auf DOM-Manipulation und objektorientierter Programmierung (OOP) lag. Dies war das erste große Projekt des Ironhack-Bootcamps. Die größte technische Herausforderung war die Codierung der Kollisionen, der Grenzen und der Mausbewegungen.",
+
+    "sneakers_project_translation_subtitle": "E-Commerce-Produktseite",
+    "sneakers_project_translation_description": "Eine responsive E-Commerce-Produktseite für Turnschuhe. Benutzer können Artikel zum Warenkorb hinzufügen/entfernen, den Warenkorb-Status einsehen, durch Produktbilder navigieren und ein Modal für ein größeres Bild öffnen. Ich habe Vanilla JavaScript für alle interaktiven und dynamischen Elemente verwendet.",
+
+    "countries_project_translation_subtitle": "Seite durchsuchen",
+    "countries_project_translation_description": "Eine Anwendung, die Länderdaten aus einer data.json-Datei abruft und sie auf der Grundlage von vorgegebenen Designs anzeigt. Die Anwendung ermöglicht es Benutzern, Länder zu erkunden, nach bestimmten Ländern zu suchen, nach Regionen zu filtern und detaillierte Informationen über jedes Land anzuzeigen. Bonusfunktion: Farbschema umschaltbar.",
+
+    "projectManager_project_translation_subtitle": "To do list",
+    "projectManager_project_translation_description": "Eine mit React erstellte und mit dem Tailwind CSS-Framework gestylte Webanwendung. Dieses Projekt ermöglicht es Benutzern, neue Projekte zu erstellen, ihnen Aufgaben hinzuzufügen, Aufgaben zu bereinigen und Projekte zu löschen - alles innerhalb der Frontend-Umgebung.",
+
+    "ticTacToe_project_translation_subtitle": "Ein Spiel",
+    "ticTacToe_project_translation_description": "Das klassische Tic Tac Toe-Spiel mit React with Vite. Sie können das Spiel gegen eine andere Person spielen, indem Sie abwechselnd Züge auf dem Spielbrett machen. Interaktives und reaktionsfähiges Spielbrett.",
+
+    "foodelicious_project_translation_subtitle": "Eine modale Galerie",
+    "foodelicious_project_translation_description": "Dieses Projekt implementiert eine einfache Bildergalerie mit einem Modal unter Verwendung der React-Bibliothek und Sass für das Styling. Wenn ein Benutzer auf ein Bild klickt, erscheint ein modales Fenster, das eine größere Version des Bildes zusammen mit seiner Beschreibung anzeigt. Der Benutzer kann mit den Pfeiltasten nach rechts und links oder mit den Pfeiltasten der Tastatur durch alle Bilder navigieren. Außerdem kann der Benutzer die Taste 'Esc' drücken, um das modale Fenster zu schließen.",
+
+    "calculator_project_translation_subtitle": "Taschenrechner",
+    "calculator_project_translation_description": "Dies ist eine JavaScript- und React-Anwendung, mit der Sie das Wachstum Ihrer Investitionen über einen bestimmten Zeitraum berechnen können. Die Anwendung besteht aus drei Hauptkomponenten: Header, UserInput und ResultsTable.",
+
+    "theDrumKit_project_translation_subtitle": "Ein Spiel",
+    "theDrumKit_project_translation_description": "Das Drum Kit Spiel ist ein Projekt, bei dem der Benutzer mit einem Schlagzeug spielen kann, indem er die Tastatur drückt oder auf die Schaltflächen klickt. Die wichtigsten Konzepte, die in diesem Projekt vorgestellt werden, sind DOM, Tastenereignisse (JS) und CSS-Animationen.",
+
+    "revealingDestiny_project_translation_subtitle": "Ein Spiel",
+    "revealingDestiny_project_translation_description": "Das Spiel Revealing your destiny ist ein Projekt, bei dem der Benutzer mit dem Kästchen spielen kann, indem er eine Frage eingibt, um die Antwort herauszufinden. Die wichtigsten Konzepte, die in diesem Projekt vorgestellt werden, sind DOM-Manipulation und CSS-Animationen."
+  }
+}
