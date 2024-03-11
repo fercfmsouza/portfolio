@@ -21,8 +21,8 @@ Welcome to my personal portfolio website! As a frontend developer, I've built th
 
 ## Deployment
 
-The portfolio is deployed using Vercel, providing a fast and reliable hosting solution. Feel free to explore and interact with the website! [here](https://jokers-burger.vercel.app/).
+The portfolio is deployed using Vercel, providing a fast and reliable hosting solution. Feel free to explore and interact with the website [here](https://jokers-burger.vercel.app/)!
 
 ## Demo Image
 
-![Demo one ](./public/img/demo.png)
+![Demo one ](./public/assets/demo.png)
