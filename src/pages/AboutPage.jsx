@@ -26,9 +26,9 @@ const AboutPage = () => {
 
       <Reveal>
         <div className='about-images'>
-          <img className='img-1' src='../../public/assets/about-photo-1.jpg' alt='Fernanda in Japan' />
-          <img className='img-2' src='../../public/assets/about-photo-2.JPG' alt='Building in Kopenhagen' />
-          <img className='img-3' src='../../public/assets/about-photo-3.jpg' alt='Fernanda in a japanese garden' />
+          <img className='img-1' src='../../../assets/about-photo-1.jpg' alt='Fernanda in Japan' />
+          <img className='img-2' src='../../../assets/about-photo-2.JPG' alt='Building in Kopenhagen' />
+          <img className='img-3' src='../../../assets/about-photo-3.jpg' alt='Fernanda in a japanese garden' />
         </div>
       </Reveal>
 

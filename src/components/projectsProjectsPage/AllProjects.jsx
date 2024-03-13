@@ -4,6 +4,7 @@ import projects from '../../dataJson/data.json';
 import ProjectItem from '../../components/projectsProjectsPage/ProjectItem';
 import Pagination from './Pagination';
 import '../../styles/AllProjects.scss';
+import Reveal from '../../utils/Reveal';
 
 const ITEMS_PER_PAGE = 3;
 const getProjectArrayPosition = (projectId) => projects.findIndex((p) => p.id === projectId) + 1;
@@ -50,7 +51,9 @@ const AllProjects = () => {
   return (
     <div className='all-projects'>
       {currentProjects.map((project) => (
-        <ProjectItem key={project.id} project={project} />
+        <Reveal key={project.id}>
+          <ProjectItem project={project} />
+        </Reveal>
       ))}
       <Pagination
         itemsPerPage={ITEMS_PER_PAGE}

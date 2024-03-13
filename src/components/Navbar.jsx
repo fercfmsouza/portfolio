@@ -10,6 +10,11 @@ const Navbar = () => {
   const { language, changeLanguage, translation } = useLanguage();
   const [hamburgerOpen, setHamburgerOpen] = useState(false);
 
+  // Unicodes for flags
+  const ukFlag = '\u{1F1EC}\u{1F1E7}';
+  const brazilFlag = '\u{1F1E7}\u{1F1F7}';
+  const germanyFlag = '\u{1F1E9}\u{1F1EA}';
+
   const handleLanguageChange = (event) => {
     const newLanguage = event.target.value;
     changeLanguage(newLanguage);
@@ -67,9 +72,9 @@ const Navbar = () => {
           </li>
 
           <select id='languages' onChange={handleLanguageChange} value={language}>
-            <option value='en'>🇬🇧</option>
-            <option value='pt'>🇧🇷</option>
-            <option value='de'>🇩🇪</option>
+            <option value='en'>{ukFlag}</option>
+            <option value='pt'>{brazilFlag}</option>
+            <option value='de'>{germanyFlag}</option>
           </select>
 
           <li>
@@ -80,7 +85,7 @@ const Navbar = () => {
               rel='noopener noreferrer'
             >
               LinkedIn
-              <img src='../../public/assets/arrow-menu-burger.svg' />
+              <img src='../../../assets/arrow-menu-burger.svg' />
             </a>
           </li>
           <li>
@@ -91,7 +96,7 @@ const Navbar = () => {
               rel='noopener noreferrer'
             >
               Github
-              <img src='../../public/assets/arrow-menu-burger.svg' />
+              <img src='../../../assets/arrow-menu-burger.svg' />
             </a>
           </li>
           <li>
@@ -102,7 +107,7 @@ const Navbar = () => {
               rel='noopener noreferrer'
             >
               E-mail
-              <img src='../../public/assets/arrow-menu-burger.svg' />
+              <img src='../../../assets/arrow-menu-burger.svg' />
             </a>
           </li>
         </ul>

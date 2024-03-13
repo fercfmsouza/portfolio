@@ -22,7 +22,7 @@ const BackToTopButton = () => {
     <div className='back-button-wrapper'>
       {backToTopButton && (
         <button onClick={scrollUp} className='back-button'>
-          <img src='../../public/assets/arrow-back-to-top.svg' alt='' />
+          <img src='../../../assets/arrow-back-to-top.svg' alt='' />
         </button>
       )}
     </div>

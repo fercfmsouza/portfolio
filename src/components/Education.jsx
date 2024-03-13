@@ -11,12 +11,7 @@ const Education = () => {
       <Reveal>
         <div className='education'>
           <h2 className='title-bg-light'>{translation.educationTitle}</h2>
-          <a
-            className='btn-cv'
-            href='../../public/assets/CV-Fernanda-Souza.pdf'
-            target='_blank'
-            rel='noopener noreferrer'
-          >
+          <a className='btn-cv' href='../../../assets/CV-Fernanda-Souza.pdf' target='_blank' rel='noopener noreferrer'>
             {translation.resumeButton}
             <SvgResumeIcon fillColor='none' strokeColor='#1b2e25' />
           </a>

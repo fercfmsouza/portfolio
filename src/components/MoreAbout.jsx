@@ -14,7 +14,7 @@ const MoreAbout = () => {
       </Reveal>
       <div className='about-wrapper'>
         <Reveal>
-          <img src='../../public/assets/profile-photo.png' alt="Fernanda's profile image" />
+          <img src='../../../assets/profile-photo.png' alt="Fernanda's profile image" />
         </Reveal>
         <Link to='/about'>
           <Reveal>

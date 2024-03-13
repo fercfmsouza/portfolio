@@ -1,52 +1,52 @@
 [
   {
     "id": "1a",
-    "icon": "../../public/assets/express.svg",
+    "icon": "../../../assets/express.svg",
     "altText": "express icon"
   },
   {
     "id": "2b",
-    "icon": "../../public/assets/figma.svg",
+    "icon": "../../../assets/figma.svg",
     "altText": "figma icon"
   },
   {
     "id": "3c",
-    "icon": "../../public/assets/js.svg",
+    "icon": "../../../assets/js.svg",
     "altText": "javaScript icon"
   },
   {
     "id": "4d",
-    "icon": "../../public/assets/css.svg",
+    "icon": "../../../assets/css.svg",
     "altText": "css icon"
   },
   {
     "id": "5e",
-    "icon": "../../public/assets/html.svg",
+    "icon": "../../../assets/html.svg",
     "altText": "html icon"
   },
   {
     "id": "6f",
-    "icon": "../../public/assets/node.svg",
+    "icon": "../../../assets/node.svg",
     "altText": "node icon"
   },
   {
     "id": "7g",
-    "icon": "../../public/assets/react.svg",
+    "icon": "../../../assets/react.svg",
     "altText": "react icon"
   },
   {
     "id": "8h",
-    "icon": "../../public/assets/sass.svg",
+    "icon": "../../../assets/sass.svg",
     "altText": "sass icon"
   },
   {
     "id": "9i",
-    "icon": "../../public/assets/git.svg",
+    "icon": "../../../assets/git.svg",
     "altText": "git icon"
   },
   {
     "id": "10j",
-    "icon": "../../public/assets/mongo.svg",
+    "icon": "../../../assets/mongo.svg",
     "altText": "mongodb icon"
   }
 ]

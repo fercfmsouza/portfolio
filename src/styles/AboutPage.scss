@@ -8,7 +8,7 @@
     padding: 200px 60px;
 
     .about-subtitle {
-      font-family: 'Graphie';
+      font-family: 'Light';
       font-size: 24px;
       color: $beige;
       text-transform: uppercase;
@@ -16,9 +16,12 @@
     }
 
     .about-text {
+      letter-spacing: 0.2rem;
       line-height: 6rem;
+      text-transform: uppercase;
 
       .about-title {
+        font-weight: 300;
         font-family: 'LeJour';
         font-size: 60px;
         color: $beige;
@@ -27,6 +30,7 @@
       .about-title-76 {
         font-family: 'LeJour';
         font-size: 76px;
+        font-weight: 300;
         color: $beige;
       }
     }
@@ -70,8 +74,11 @@
 
     h2 {
       font-family: 'LeJour';
+      font-weight: 300;
       font-size: 48px;
       color: $beige;
+      text-transform: uppercase;
+      letter-spacing: 0.2rem;
     }
 
     p {

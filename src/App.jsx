@@ -9,13 +9,12 @@ import BackToTopButton from './utils/BackToTopButton';
 import './App.scss';
 
 //fonts
-import '../public/fonts/Graphie-Bold.otf';
-import '../public/fonts/Graphie-ExtraBold.otf';
-import '../public/fonts/Graphie-Regular.otf';
-import '../public/fonts/Graphie-Light.otf';
-import '../public/fonts/Graphie-ExtraLight.otf';
-import '../public/fonts/Le-Jour-Serif.ttf';
-import '../public/fonts/Le-Jour-Script.ttf';
+import '../src/fonts/Graphie-Bold.otf';
+import '../src/fonts/Graphie-ExtraBold.otf';
+import '../src/fonts/Graphie-Regular.otf';
+import '../src/fonts/Graphie-Light.otf';
+import '../src/fonts/Graphie-ExtraLight.otf';
+import '../src/fonts/Le-Jour-Serif.ttf';
 import React from 'react';
 
 function App() {
