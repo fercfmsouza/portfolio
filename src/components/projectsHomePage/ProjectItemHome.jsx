@@ -24,7 +24,6 @@ ProjectItemHome.propTypes = {
     title: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
   }).isRequired,
-  currentPage: PropTypes.number.isRequired,
 };
 
 export default ProjectItemHome;
