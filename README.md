@@ -25,4 +25,4 @@ The portfolio is deployed using Vercel, providing a fast and reliable hosting so
 
 ## Demo Image
 
-![Demo one ](./public/assets/demo.png)
+![Preview ](./public/assets/demo.png)
