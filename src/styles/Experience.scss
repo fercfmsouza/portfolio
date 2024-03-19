@@ -51,6 +51,13 @@
   }
 }
 
+//big screens
+@media (min-width: 1500px) {
+  .experience-wrapper {
+    padding: 100px 230px 200px 230px;
+  }
+}
+
 //responsive tablet screen
 @media (max-width: 1000px) {
   .experience-wrapper {
@@ -106,9 +113,13 @@
   }
 }
 
-//big screens
-@media (min-width: 1500px) {
+//responsive mobile screen
+@media (max-width: 360px) {
   .experience-wrapper {
-    padding: 100px 230px 200px 230px;
+    .cards-list {
+      &:nth-child(-n + 2) p {
+        width: 142px;
+      }
+    }
   }
 }

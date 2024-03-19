@@ -110,7 +110,7 @@
 }
 
 //responsive tablet screen
-@media screen and (max-width: 1000px) {
+@media (max-width: 1000px) {
   .navbar {
     padding: 16px 40px;
     position: fixed;
@@ -183,7 +183,7 @@
 }
 
 //responsive mobile screen
-@media screen and (max-width: 430px) {
+@media (max-width: 430px) {
   .navbar {
     padding: 24px;
 
@@ -199,6 +199,19 @@
     .navbar-list {
       #languages {
         width: 22%;
+      }
+    }
+  }
+}
+
+//responsive mobile screen
+@media (max-width: 360px) {
+  .navbar {
+    .navbar-info {
+      .hamburger-menu {
+        .hamburger-icon {
+          width: 30px;
+        }
       }
     }
   }

@@ -80,6 +80,13 @@
   }
 }
 
+//big screens
+@media (min-width: 1500px) {
+  .more-about {
+    padding: 64px 230px;
+  }
+}
+
 //responsive tablet screen
 @media (max-width: 1000px) {
   .more-about {
@@ -117,9 +124,11 @@
   }
 }
 
-//big screens
-@media (min-width: 1500px) {
+//responsive mobile screen
+@media (max-width: 360px) {
   .more-about {
-    padding: 64px 230px;
+    h3 {
+      font-size: 18px;
+    }
   }
 }

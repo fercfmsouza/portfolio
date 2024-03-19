@@ -118,6 +118,32 @@
 }
 
 //responsive mobile screen
+@media (max-width: 560px) {
+  .footer {
+    .footer-social {
+      ul {
+        flex-direction: column;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        width: 34%;
+        gap: 0;
+
+        li {
+          a {
+            font-size: 14px;
+            justify-content: space-between;
+
+            svg {
+              width: 33px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+//responsive mobile screen
 @media (max-width: 430px) {
   .footer {
     padding: 96px 24px 24px 24px;
@@ -137,7 +163,7 @@
         flex-direction: column;
         margin-top: 40px;
         margin-bottom: 40px;
-        width: 30%;
+        width: 34%;
         gap: 0;
 
         li {
