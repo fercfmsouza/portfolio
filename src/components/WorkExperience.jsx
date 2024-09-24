@@ -18,11 +18,12 @@ const WorkExperience = () => {
           <div className="work-experience">
             <p>{translation.workSubtitle}</p>
             <a
+              className="btn-company"
               href="https://cli.greencarlane.com/about"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <h3 className="btn-company">{translation.jobCompany}</h3>
+              <h3>{translation.jobCompany}</h3>
             </a>
             <p className="job-description">{translation.jobDescription}</p>
             <p className="date">{translation.jobDate}</p>
