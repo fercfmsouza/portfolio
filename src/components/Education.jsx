@@ -7,33 +7,38 @@ const Education = () => {
   const { translation } = useLanguage();
 
   return (
-    <div className='education-wrapper'>
+    <div className="education-wrapper">
       <Reveal>
-        <div className='education'>
-          <h2 className='title-bg-light'>{translation.educationTitle}</h2>
-          <a className='btn-cv' href='../../../assets/CV-Fernanda-Souza.pdf' target='_blank' rel='noopener noreferrer'>
+        <div className="education">
+          <h2 className="title-bg-light">{translation.educationTitle}</h2>
+          <a
+            className="btn-cv"
+            href="../../../assets/en-cv-fernanda-souza.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             {translation.resumeButton}
-            <SvgResumeIcon fillColor='none' strokeColor='#1b2e25' />
+            <SvgResumeIcon fillColor="none" strokeColor="#1b2e25" />
           </a>
         </div>
       </Reveal>
 
-      <div className='padding'>
+      <div className="padding">
         <Reveal>
-          <div className='bootcamp'>
+          <div className="bootcamp">
             <p>{translation.educationBootcamp}</p>
             <h3>{translation.educationDescriptionWebDev}</h3>
             <p>{translation.educationGermany}</p>
           </div>
         </Reveal>
         <Reveal>
-          <div className='education-info'>
-            <div className='bacharel'>
+          <div className="education-info">
+            <div className="bacharel">
               <p>{translation.educationBacharel}</p>
               <h3>{translation.educationDescriptionArchitect}</h3>
               <p>{translation.educationBrazil}</p>
             </div>
-            <div className='exchange'>
+            <div className="exchange">
               <p>{translation.educationExchange}</p>
               <h3>{translation.educationDescriptionArchitect}</h3>
               <p>{translation.educationSpain}</p>

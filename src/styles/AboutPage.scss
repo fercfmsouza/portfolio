@@ -271,6 +271,27 @@
       }
     }
 
+    .work-wrapper {
+      padding: 0 24px 60px 24px;
+
+      h2 {
+        font-size: 20px;
+      }
+
+      .padding {
+        padding: 0;
+
+        h3 {
+          font-size: 20px;
+          margin: 16px 0 40px 0;
+        }
+
+        .job-description {
+          font-size: 16px;
+        }
+      }
+    }
+
     .education-wrapper {
       padding: 0 24px 100px 24px;
 
