@@ -1,5 +1,23 @@
 [
   {
+    "id": "a14",
+    "title": "VMV Arquitetura",
+    "subtitle": "vmvarquitetura_project_translation_subtitle",
+    "description": "vmvarquitetura_project_translation_description",
+    "technologies": [
+      "Typescript",
+      "HTML",
+      "CSS",
+      "React (Vite)",
+      "Tailwind",
+      "Responsive"
+    ],
+    "image": "../../../projects-images/project-vmv1.png",
+    "hoverImage": "../../../projects-images/project-vmv2.png",
+    "website": "https://www.vmvarquitetura.com.br",
+    "github": "https://github.com/fercfmsouza/architect-website"
+  },
+  {
     "id": "a1",
     "title": "Joker's Burger",
     "subtitle": "jokers_project_translation_subtitle",
@@ -83,7 +101,13 @@
     "title": "Feeding Naruto",
     "subtitle": "feedingNaruto_project_translation_subtitle",
     "description": "feedingNaruto_project_translation_description",
-    "technologies": ["JavaScript", "HTML", "CSS", "DOM Manipulation", "Object-Oriented Programming"],
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "DOM Manipulation",
+      "Object-Oriented Programming"
+    ],
     "image": "../../../projects-images/project-naruto.jpg",
     "hoverImage": "../../../projects-images/project-naruto2.jpg",
     "website": "https://fercfmsouza.github.io/feeding-naruto/",
@@ -94,7 +118,14 @@
     "title": "Countries",
     "subtitle": "countries_project_translation_subtitle",
     "description": "countries_project_translation_description",
-    "technologies": ["JavaScript", "HTML", "SaSS", "ReactJS", "Color Scheme Toggle", "Responsive"],
+    "technologies": [
+      "JavaScript",
+      "HTML",
+      "SaSS",
+      "ReactJS",
+      "Color Scheme Toggle",
+      "Responsive"
+    ],
     "image": "../../../projects-images/project-countries.jpg",
     "hoverImage": "../../../projects-images/project-countries2.jpg",
     "website": "https://fercfmsouza.github.io/countries-info/",

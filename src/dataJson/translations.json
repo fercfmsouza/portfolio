@@ -88,7 +88,10 @@
     "theDrumKit_project_translation_description": "The Drum Kit game is a project where user can play around with drumkit by pressing their keyboard or click at the buttons. The main concepts presented in this project are DOM, key events(JS) and CSS animations.",
 
     "revealingDestiny_project_translation_subtitle": "A game",
-    "revealingDestiny_project_translation_description": "The Revealing your destiny game is a project in which the user can play with the little box by typing in a question to find out the answer. The main concepts presented in this project are DOM manipulation and CSS animations."
+    "revealingDestiny_project_translation_description": "The Revealing your destiny game is a project in which the user can play with the little box by typing in a question to find out the answer. The main concepts presented in this project are DOM manipulation and CSS animations.",
+
+    "vmvarquitetura_project_translation_subtitle": "Architecture website",
+    "vmvarquitetura_project_translation_description": "Fully responsive website developed for an architect to showcase all her architecture and interior design projects. I developed it with TypeScript for strong typing and better maintainability, Tailwind CSS for efficient styling and responsive design and React for a smooth and dynamic user experience."
   },
 
   "pt": {
@@ -177,7 +180,10 @@
     "theDrumKit_project_translation_description": "O jogo Drum Kit é um projeto em que o usuário pode brincar com a bateria pressionando o teclado ou clicando nos botões. Os principais conceitos apresentados nesse projeto são DOM, eventos-chave (JS) e animações CSS.",
 
     "revealingDestiny_project_translation_subtitle": "Um Jogo",
-    "revealingDestiny_project_translation_description": "O jogo Revealing your destiny é um projeto no qual o usuário pode brincar com a caixinha digitando uma pergunta para descobrir a resposta. Os principais conceitos apresentados nesse projeto são manipulação de DOM e animações CSS."
+    "revealingDestiny_project_translation_description": "O jogo Revealing your destiny é um projeto no qual o usuário pode brincar com a caixinha digitando uma pergunta para descobrir a resposta. Os principais conceitos apresentados nesse projeto são manipulação de DOM e animações CSS.",
+
+    "vmvarquitetura_project_translation_subtitle": "Site de arquitetura",
+    "vmvarquitetura_project_translation_description": "Website totalmente responsivo desenvolvido para uma arquiteta para mostrar todos os seus projectos de arquitetura e design de interiores. Desenvolvi-o com TypeScript para uma tipagem forte e melhor manutenção, Tailwind CSS para um estilo eficiente e design responsivo e React para uma experiência de utilizador suave e dinâmica."
   },
 
   "de": {
@@ -266,6 +272,9 @@
     "theDrumKit_project_translation_description": "Das Drum Kit Spiel ist ein Projekt, bei dem der Benutzer mit einem Schlagzeug spielen kann, indem er die Tastatur drückt oder auf die Schaltflächen klickt. Die wichtigsten Konzepte, die in diesem Projekt vorgestellt werden, sind DOM, Tastenereignisse (JS) und CSS-Animationen.",
 
     "revealingDestiny_project_translation_subtitle": "Ein Spiel",
-    "revealingDestiny_project_translation_description": "Das Spiel Revealing your destiny ist ein Projekt, bei dem der Benutzer mit dem Kästchen spielen kann, indem er eine Frage eingibt, um die Antwort herauszufinden. Die wichtigsten Konzepte, die in diesem Projekt vorgestellt werden, sind DOM-Manipulation und CSS-Animationen."
+    "revealingDestiny_project_translation_description": "Das Spiel Revealing your destiny ist ein Projekt, bei dem der Benutzer mit dem Kästchen spielen kann, indem er eine Frage eingibt, um die Antwort herauszufinden. Die wichtigsten Konzepte, die in diesem Projekt vorgestellt werden, sind DOM-Manipulation und CSS-Animationen.",
+
+    "vmvarquitetura_project_translation_subtitle": "Architektur-Website ",
+    "vmvarquitetura_project_translation_description": "Vollständig responsive Website, die für eine Architektin entwickelt wurde, um alle ihre Architektur- und Innenarchitekturprojekte zu präsentieren. Ich habe sie mit TypeScript für starke Typisierung und bessere Wartbarkeit, Tailwind CSS für effizientes Styling und responsives Design und React für eine reibungslose und dynamische Benutzererfahrung entwickelt."
   }
 }
